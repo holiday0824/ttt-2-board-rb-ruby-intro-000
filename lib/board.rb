@@ -1,4 +1,4 @@
-row=[" ", " "," "," "," "," "," "," "," "]
+board =[" ", " "," "," "," "," "," "," "," "]
 #postion 1: left
 row = [0]
 #postion 2: top Middle
